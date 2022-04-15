@@ -1,9 +1,8 @@
 .fa {
-    padding: 20px;
+    padding: 1rem;
     text-align: center;
-    margin: 5px 2px;
-    font-size: 30px;
-    width: 50px;
+    font-size: 5px;
+    width: 1rem;
 }
 
 .fa-facebook {
